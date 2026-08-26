@@ -1,5 +1,19 @@
 Part number,description,manufacturer,quantity,category
+MH8080A,CPU,Tesla,4,
 TMP8085AP-2,CPU,Toshiba,4
+P8085AH,CPU,Intel,1,
+EF6809P,CPU,Motorola,2,
+MC6809P,CPU,Motorola,2,
+HD63C09RP,CPU,Hitachi,9,
+MC68B50P,ASYNCHRONOUS COMMUNICATIONS INTERFACE ADAPTER,Motorola,10,
+SC67475P,Memory Management Unit,Motorola,6,MC6829P
+D8087-1,Floating-point coprocessor,Intel,1,
+M27C128-10F1,EPROM 128K 16K x 8 CMOS,Microchip,40,
+AS6C62256-55PIN,"SRAM, 256Kb, 32K x 8, 2.7 5.5V, 28pin 600 mil PDIP, 55ns",Alliance Memory,10,
+AS6C6264-55PCN,"64K, 2.7-5.5V, 55ns 8K x 8 Asynch SRAM",Alliance Memory,6,
+AT28C64B-15PU,64K 8K x 8 150 ns 4. 5V-5.5V,Microchip,10,
+AT28C256-15PU,EEPROM 256K 32K x 8 150 ns 4.5V-5.5V,Microchip,5,
+24AA02/P,EEPROM 256x8 - 1.8V,Microchip,30,
 D0808-42,DIP-08-WW,Harwin,13
 D0814-42,DIP-14-WW,Harwin,30
 D0816-42,DIP-16-WW,Harwin,36
