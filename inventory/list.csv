@@ -23,20 +23,72 @@ D0818-42,DIP-18-WW,Harwin,8
 123-47-628-41-001000,DIP-28-WW,Mill-Max,8
 123-47-640-41-001000,DIP-40-WW,Mill-Max,9
 123-47-648-41-001000,DIP-48-WW,Mill-Max,1
-251-05000,5 MHz crystal,Parallax,10
+1N4148,Small Signal Switching Diodes 100V Io/200mA,onsemi,100,
+1N5819,"Schottky Diodes & Rectifiers Schottky, DO-15, 40V, 1A",Diotec,100,
+251-05000,Crystals 5 MHz Crystal 20 pF HC-49/US,Parallax,10
+ATS16B-E,Crystals 16MHz 18pF 30ppm -40C 85C,CTS,5,
+ECS-100AX-018,Standard Clock Oscillators DIP-14 5V 1.8432MHz,ECS,5,
 485-1713,MAX9814,Adafruit,6
 101110,CdS Photoresistor,Soldered,30
-SN74LS373N,Octal D-Type,TI,20
-SN74LS00N,Quad 2-In Pos NAND,TI,60
-SN74LS04N,Hex Inv w/HV Output,TI,60
-SN74LS08N,,TI,,
-SN74LS14N,Hex Schmitt-Trigger,TI,10,
-SN74LS32N,,TI,,
-SN74LS123N,Dual Mono,TI,10,
-SN74LS138N,,TI,,
-SN74LS244N,Octal Buffer,TI,,
-SN74LS245N,,TI,,
-SN74LS343N,Octal latch,TI,,
+NE555P,Timers & Support Products Precision,TI,10,
+TLC555CP,Timers & Support Products CMOS,TI,10,
+TLC556CN,Timers & Support Products Dual CMOS,TI,5,
+ATMEGA328P-PU,8-bit Microcontrollers - MCU 32KB In-system Flash 20MHz 1.8V-5.5V,Microchip,10,
+CD4017BE,Counter ICs 10 Decade/Divider,TI,51,
+CD40174BE,Flip-Flops Hex,TI,50,
+CD74HC4051E,Multiplexer Switch ICs High Spd CMOS Analog,TI,10,
+LM1117T,LDO Voltage Regulators 800mA LDO Linear Reg 2.5V,TI,10,TO-220-3
+LM319N,Analog Comparators Hi Speed Dual Comparator,TI,10,
+LM324AN,Operational Amplifiers - Op Amps Quad General,TI,25,
+LM336Z,Voltage References Voltage reference diode 2.49V,TI,17,TO-92-3
+LM339AN,Analog Comparators Quad Diff,TI,25,
+LM380N,Audio Amplifiers 2.5W AUDIO POWER AMP,TI,10,
+LM3900N,Operational Amplifiers - Op Amps Quad,TI,20,
+LM555CN,Timers & Support Products TIMER,TI,25,
+LM567CN,Communication ICs - Various Tone Decoder,TI,10,
+LM6134BIN,Operational Amplifiers - Op Amps 10Mhz 350Ua Sply Cur Quad Amp,TI,10,
+OPA551PA,Operational Amplifiers - Op Amps High-Volt High-Crnt Oper Amplifier,TI,10,
+SN74LS00N,Logic Gates Quad 2-In Pos NAND,TI,60
+SN74LS02N,Logic Gates Quad 2-Input,TI,50,
+SN74LS04N,Inverters Hex Inv w/HV Output,TI,60
+SN7406N,Buffers & Line Drivers Hex Inv w/HV Output,TI,30,
+SN7407N,Buffers & Line Drivers Hex w/ HV Output,TI,10,
+SN74LS08N,Logic Gates Quad 2-Input,TI,10,
+SN74LS10N,Logic Gates Triple 3-Input,TI,30,
+SN74LS14N,Inverters Hex Schmitt-Trigger,TI,20,
+SN74LS20N,Logic Gates Dual 4-Input,TI,10,
+SN74LS32N,Logic Gates Quad 2-Input,TI,10,
+SN74LS42N,"Encoders, Decoders, Multiplexers & Demultiplexers 4 to 10 BCD",TI,10,
+SN74LS73AN,Flip-Flops Dual J-K Flip-Flops with Clear,TI,10,
+SN74LS74AN,Flip-Flops Dual,TI,10,
+SN74LS75N,Latches Quad bistable latch,TI,20,
+SN74LS85N,Logic Comparators 4-bit binary or BCD Magnitude Comparator,TI,35,
+SN74LS86AN,Logic Gates Quad 2 Input,TI,10,
+SN74LS93N,Counter ICs 4bit Binary,TI,20,
+SN74LS123N,Monostable Multi-vibrator Dual Mono,TI,10,
+SN74HCT125N,Buffers & Line Drivers Tri-State Quad Bus,TI,10,
+SN74LS125AN,Buffers & Line Drivers Tri-State Quad Bus,TI,10,
+SN74LS138N,"Encoders, Decoders, Multiplexers & Demultiplexers Line Decoder",TI,20,
+SN74LS139AN,"Encoders, Decoders, Multiplexers & Demultiplexers Dual",TI,25,
+SN74LS151N,"Encoders, Decoders, Multiplexers & Demultiplexers Data Selector/Mux",TI,10,
+SN74LS153N,"Encoders, Decoders, Multiplexers & Demultiplexers Dual 4-to-1-Line Selector/Multiplexer",TI,20,
+SN74LS157N,"Encoders, Decoders, Multiplexers & Demultiplexers Quad Data",TI,10,
+SN74LS161AN,Counter ICs 4-Bit Synchronous Binary,TI,10,
+SN74LS163AN,Counter ICs 4-Bit Synchronous Binary Counter,TI,10,
+SN74LS164N,Counter Shift Registers 8-Bit Shift,TI,20,
+SN74LS173AN,Flip-Flops 4bit w/Tri-St Out,TI,10,
+SN74LS175N,Flip-Flops Quad,TI,10,
+SN74LS193N,Counter ICs 4-Bit Up/Down,TI,10,
+SN74LS240N,Buffers & Line Drivers Octal Buffer/Line,TI,20,
+SN74LS243N,Bus Transceivers Quad bus transceiver,TI,10,
+SN74LS244N,Buffers & Line Drivers Tri-State Octal,TI,20,
+SN74LS245N,Bus Transceivers Octal Bus,TI,20,
+SN74LS273N,Flip-Flops Octal,TI,10,
+SN74LS367ADR,Buffers & Line Drivers Hex Bus Drivers With 3-State Outputs,TI,20,SMT
+SN74LS367AN,Buffers & Line Drivers Hex Bus Drivers With 3-State Outputs,TI,40,
+SN74LS373N,Latches Octal D-Type,TI,20,
+SN74LS393N,Counter ICs Dual 4-Bit Binary,TI,10,
+SN75138N,Bus Transceivers Quad Bus Transceiver,TI,14,
 WP57IID,BI-POLAR RED DIFF,Kingbright,50
 WP7113ED,ORANGE DIFFUSED,Kingbright,25
 WP7113ND,PURE ORANGE DIFFUSED,Kingbright,25
@@ -57,4 +109,5 @@ J1-00105,PRECISION SWTCH STICK,ETI Systems,1
 ABX00027,Nano 33 IoT,Arduino,4
 2022053113F,20-pin flat ribbon 28 AWG - m,AWM,30
 2N2222A,"BJT, TO-92, 40V, 600 mA, NPN",Diotec,100
-MAX232,RS-232,Maxim
+2N7000,"MOSFET, TO-92, 60V, 0.2A, 150C, N",Diotec,100,
+MAX232NE4,RS-232 Interface IC Dual EIA-232 Driver/ Receiver,TI,10
