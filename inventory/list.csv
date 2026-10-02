@@ -27,11 +27,15 @@ D0818-42,DIP-18-WW,Harwin,8
 123-47-628-41-001000,DIP-28-WW,Mill-Max,8
 123-47-640-41-001000,DIP-40-WW,Mill-Max,9
 123-47-648-41-001000,DIP-48-WW,Mill-Max,1
+2N697A,Bipolar Transistors - BJT NPN Med Pwr,Central Semi,20,
+2N2102,Bipolar Transistors - BJT NPN Ampl/Switch,Central Semi,10,
 2N2222A,"Bipolar Transistors - BJT BJT, TO-92, 40V, 600mA, NPN",Diotec,100,TO-92-3
 2N222AJ,Bipolar Transistors - BJT 40V 800mA 500mW Small-Signal,Microchip,10,TO-18-3
 2N7000,"MOSFET, TO-92, 60V, 0.2A, 150C, N",Diotec,100,TO-92-3
 1N4148,Small Signal Switching Diodes 100V Io/200mA,onsemi,100,
+1N458ATR,Rectifiers High Conductance Low Leakage,onsemi,40,
 1N5819,"Schottky Diodes & Rectifiers Schottky, DO-15, 40V, 1A",Diotec,100,
+1N914,Small Signal Switching Diodes 100V 4.0ns Diode Single Junction,onsemi,20,
 251-05000,Crystals 5 MHz Crystal 20 pF HC-49/US,Parallax,10
 ATS16B-E,Crystals 16MHz 18pF 30ppm -40C 85C,CTS,5,
 ECS-100AX-018,Standard Clock Oscillators DIP-14 5V 1.8432MHz,ECS,5,
@@ -104,6 +108,14 @@ WP57IID,BI-POLAR RED DIFF,Kingbright,50
 WP7113ED,ORANGE DIFFUSED,Kingbright,25
 WP7113ND,PURE ORANGE DIFFUSED,Kingbright,25
 WP1034GDT,Green Diffused 568nm 6mcd,Kingbright,20
+10TC405,Toggle Switches SPST ON-OFF STD LVR,Mountain,123,
+100SP1T1B1M3QEH,"Toggle Switches TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Panel Mount",E-Switch,2,
+103-1219-EVX,Pushbutton Switches - Board Mount SPST (OFF)-ON,Mountain,5,
+J1-00105,Joysticks PRECISION SWTCH STCK,ETI Systems,1,
+MAB104G01C04B01A,Basic / Snap Action Switches SPDT 16A 125V LEVER STR,Apem,4,
+MAB104G01C06B09A,Basic / Snap Action Switches SPDT 16A 125VAC ROLLER LEVER,Apem,4,
+PS1024ALBLK,Pushbutton Switches - Industrial SPST 3A MOM PC MNT,E-Switch,10,
+TL2202EEYB,"Pushbutton Switches - Board Mount DPDT, On-On, Through Hole",E-Switch,25,
 RN60D3300FB14,1/4watt 330ohms 1% 1 00ppm,Vishay,10
 MF1/4DCT52R1002F,10Kohms 1% 100PPM,KOA,100
 MFR25SFRF52-4K7,4.7 kOhms Metal Film Resistors,YAEGO,100,
@@ -116,6 +128,5 @@ HW-UW-2829M,Wire Wrap Tools WRAP-UNWRAP TOOL 28-29 A,Jonard,1,
 801-R28,28AWG KYNAR INSUL 100' SPOOL,Jonard,8
 9976 002100,26AWG 1C PVC 100ft SPOOL RED,Belkin,1
 3050/1 BK005,24AWG SOLID PVC 100ft SPOOL BLACK,Alpha Wire,1
-J1-00105,PRECISION SWTCH STICK,ETI Systems,1
 ABX00027,Nano 33 IoT,Arduino,4
 2022053113F,20-pin flat ribbon 28 AWG - m,AWM,30
