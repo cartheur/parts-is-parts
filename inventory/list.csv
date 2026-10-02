@@ -29,6 +29,7 @@ D0818-42,DIP-18-WW,Harwin,8
 123-47-648-41-001000,DIP-48-WW,Mill-Max,1
 2N2222A,"Bipolar Transistors - BJT BJT, TO-92, 40V, 600mA, NPN",Diotec,100,TO-92-3
 2N222AJ,Bipolar Transistors - BJT 40V 800mA 500mW Small-Signal,Microchip,10,TO-18-3
+2N7000,"MOSFET, TO-92, 60V, 0.2A, 150C, N",Diotec,100,TO-92-3
 1N4148,Small Signal Switching Diodes 100V Io/200mA,onsemi,100,
 1N5819,"Schottky Diodes & Rectifiers Schottky, DO-15, 40V, 1A",Diotec,100,
 251-05000,Crystals 5 MHz Crystal 20 pF HC-49/US,Parallax,10
@@ -54,6 +55,7 @@ LM3900N,Operational Amplifiers - Op Amps Quad,TI,20,
 LM555CN,Timers & Support Products TIMER,TI,25,
 LM567CN,Communication ICs - Various Tone Decoder,TI,10,
 LM6134BIN,Operational Amplifiers - Op Amps 10Mhz 350Ua Sply Cur Quad Amp,TI,10,
+MAX232N,RS-232 Interface IC Dual RS232 Driver,TI,10,
 MCP3008,8-Channel 10-Bit ADC With SPI Interface,Adafruit,6,
 OPA551PA,Operational Amplifiers - Op Amps High-Volt High-Crnt Oper Amplifier,TI,10,
 SN74LS00N,Logic Gates Quad 2-In Pos NAND,TI,60
@@ -117,6 +119,3 @@ HW-UW-2829M,Wire Wrap Tools WRAP-UNWRAP TOOL 28-29 A,Jonard,1,
 J1-00105,PRECISION SWTCH STICK,ETI Systems,1
 ABX00027,Nano 33 IoT,Arduino,4
 2022053113F,20-pin flat ribbon 28 AWG - m,AWM,30
-2N2222A,"BJT, TO-92, 40V, 600 mA, NPN",Diotec,100
-2N7000,"MOSFET, TO-92, 60V, 0.2A, 150C, N",Diotec,100,
-MAX232NE4,RS-232 Interface IC Dual EIA-232 Driver/ Receiver,TI,10
