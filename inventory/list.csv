@@ -1,19 +1,23 @@
 Part number,description,manufacturer,quantity,category
-MH8080A,CPU,Tesla,4,
-TMP8085AP-2,CPU,Toshiba,4
-P8085AH,CPU,Intel,1,
 EF6809P,CPU,Motorola,2,
-MC6809P,CPU,Motorola,2,
 HD63C09RP,CPU,Hitachi,9,
-MC68B50P,ASYNCHRONOUS COMMUNICATIONS INTERFACE ADAPTER,Motorola,10,
+MH8080A,CPU,Tesla,4,
+P8085AH,CPU,Intel,1,
+SYU6502,CPU,Sylvania,2,
+TMP8085AP-2,CPU,Toshiba,4,
+MC6809P,CPU,Motorola,2,
+MC68B50P,Asynchronous Communications Interface Adapter,Motorola,10,
 SC67475P,Memory Management Unit,Motorola,6,MC6829P
 D8087-1,Floating-point coprocessor,Intel,1,
-M27C128-10F1,EPROM 128K 16K x 8 CMOS,Fairchild,40,
 AS6C62256-55PIN,"SRAM, 256Kb, 32K x 8, 2.7 5.5V, 28pin 600 mil PDIP, 55ns",Alliance Memory,10,
-AS6C6264-55PCN,"64K, 2.7-5.5V, 55ns 8K x 8 Asynch SRAM",Alliance Memory,6,
-AT28C64B-15PU,64K 8K x 8 150 ns 4. 5V-5.5V,Microchip,10,
-AT28C256-15PU,EEPROM 256K 32K x 8 150 ns 4.5V-5.5V,Microchip,5,
+AS6C6264-55PCN,"SRAM 64K, 2.7-5.5V, 55ns 8K x 8 Asynch",Alliance Memory,6,
+23K640-I/P,SRAM 64K 8K X 8 2.7V SERIAL SRAM IND,Microchip,25,
 24AA02/P,EEPROM 256x8 - 1.8V,Microchip,30,
+AT28C64B-15PU,EEPROM 64K 8K x 8 150 ns 4.5V-5.5V,Microchip,10,
+AT28C256-15PU,EEPROM 256K 32K x 8 150 ns 4.5V-5.5V,Microchip,5,
+M27C128-10F1,EPROM 128K 16K x 8 CMOS,Fairchild,40,
+M2716-FI,EPROM 16K 2K x 8,ST-Fairchild,9,
+M2732A,EPROM 32K 4K x 8,SSS,30,
 D0808-42,DIP-08-WW,Harwin,13
 D0814-42,DIP-14-WW,Harwin,30
 D0816-42,DIP-16-WW,Harwin,36
@@ -23,6 +27,8 @@ D0818-42,DIP-18-WW,Harwin,8
 123-47-628-41-001000,DIP-28-WW,Mill-Max,8
 123-47-640-41-001000,DIP-40-WW,Mill-Max,9
 123-47-648-41-001000,DIP-48-WW,Mill-Max,1
+2N2222A,"Bipolar Transistors - BJT BJT, TO-92, 40V, 600mA, NPN",Diotec,100,TO-92-3
+2N222AJ,Bipolar Transistors - BJT 40V 800mA 500mW Small-Signal,Microchip,10,TO-18-3
 1N4148,Small Signal Switching Diodes 100V Io/200mA,onsemi,100,
 1N5819,"Schottky Diodes & Rectifiers Schottky, DO-15, 40V, 1A",Diotec,100,
 251-05000,Crystals 5 MHz Crystal 20 pF HC-49/US,Parallax,10
@@ -37,6 +43,7 @@ ATMEGA328P-PU,8-bit Microcontrollers - MCU 32KB In-system Flash 20MHz 1.8V-5.5V,
 CD4017BE,Counter ICs 10 Decade/Divider,TI,51,
 CD40174BE,Flip-Flops Hex,TI,50,
 CD74HC4051E,Multiplexer Switch ICs High Spd CMOS Analog,TI,10,
+KA358,Operational Amplifiers - Op Amps Dual Op Amp 3-32V 2mA; 84dB,onsemi,630,
 LM1117T,LDO Voltage Regulators 800mA LDO Linear Reg 2.5V,TI,10,TO-220-3
 LM319N,Analog Comparators Hi Speed Dual Comparator,TI,10,
 LM324AN,Operational Amplifiers - Op Amps Quad General,TI,25,
@@ -47,6 +54,7 @@ LM3900N,Operational Amplifiers - Op Amps Quad,TI,20,
 LM555CN,Timers & Support Products TIMER,TI,25,
 LM567CN,Communication ICs - Various Tone Decoder,TI,10,
 LM6134BIN,Operational Amplifiers - Op Amps 10Mhz 350Ua Sply Cur Quad Amp,TI,10,
+MCP3008,8-Channel 10-Bit ADC With SPI Interface,Adafruit,6,
 OPA551PA,Operational Amplifiers - Op Amps High-Volt High-Crnt Oper Amplifier,TI,10,
 SN74LS00N,Logic Gates Quad 2-In Pos NAND,TI,60
 SN74LS02N,Logic Gates Quad 2-Input,TI,50,
@@ -89,6 +97,7 @@ SN74LS367AN,Buffers & Line Drivers Hex Bus Drivers With 3-State Outputs,TI,40,
 SN74LS373N,Latches Octal D-Type,TI,20,
 SN74LS393N,Counter ICs Dual 4-Bit Binary,TI,10,
 SN75138N,Bus Transceivers Quad Bus Transceiver,TI,14,
+SX09578,Precision voice and sound synthesizer,Speakjet,2,
 WP57IID,BI-POLAR RED DIFF,Kingbright,50
 WP7113ED,ORANGE DIFFUSED,Kingbright,25
 WP7113ND,PURE ORANGE DIFFUSED,Kingbright,25
